@@ -6,7 +6,5 @@
 
 #### 编程能力
 
-​	刷leetcode
-
-[计算机书籍](https://pan.baidu.com/s/1L6vepJJlqIcNrtGGwztqtw)  密码: p1lk
+ALL.md 包含了整理的OR方向的具体知识点和代码
 
